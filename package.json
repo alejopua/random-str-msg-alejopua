@@ -1,0 +1,23 @@
+{
+  "name": "random-str-msg-alejopua",
+  "version": "1.0.0",
+  "description": "Random strings messeges pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "alejopua <alejopua@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": " git@github.com:alejopua/random-str-msg-alejopua.git/issues"
+  },
+  "homepage": "git@github.com:alejopua/random-str-msg-alejopua.git#readme",
+  "bin": {
+    "random-str-msg-alejopua": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
